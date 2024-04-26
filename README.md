@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Theodore
-- 👀 I’m interested in Machine Learning and Deeplearning
-- 🌱 I’m currently learning segmentation with Deeplearning using Pytorch
-- 💞️ I’m looking for some friends to communicate with.
+- 👀 I’m interested in Machine Learning and Deep Learning
+
 
 
 <!---
