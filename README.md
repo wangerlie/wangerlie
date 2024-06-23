@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Theodore
-- 👀 I’m interested in Machine Learning and Deep Learning
+- 👀 I’m interested in Reinforcement Learning and AI safety
 
 
 
